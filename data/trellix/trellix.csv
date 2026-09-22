@@ -1,0 +1,51 @@
+EndpointID,Hostname,OS,ThreatCount,LastScan,Status
+TR001,userpc001,Windows 11,0,2026-09-22,Protected
+TR002,userpc002,Windows 10,2,2026-09-22,Threat Found
+TR003,userpc003,Windows 11,1,2026-09-22,Warning
+TR004,userpc004,Windows Server 2022,0,2026-09-22,Protected
+TR005,userpc005,Windows 10,3,2026-09-22,Threat Found
+TR006,userpc006,Windows 11,0,2026-09-22,Protected
+TR007,userpc007,Windows 10,1,2026-09-22,Warning
+TR008,userpc008,Windows Server 2022,0,2026-09-22,Protected
+TR009,userpc009,Windows 11,4,2026-09-22,Threat Found
+TR010,userpc010,Windows 10,0,2026-09-22,Protected
+TR011,userpc011,Windows 11,2,2026-09-22,Warning
+TR012,userpc012,Windows 10,0,2026-09-22,Protected
+TR013,userpc013,Windows Server 2022,1,2026-09-22,Warning
+TR014,userpc014,Windows 11,0,2026-09-22,Protected
+TR015,userpc015,Windows 10,5,2026-09-22,Threat Found
+TR016,userpc016,Windows 11,0,2026-09-22,Protected
+TR017,userpc017,Windows 10,0,2026-09-22,Protected
+TR018,userpc018,Windows Server 2022,2,2026-09-22,Warning
+TR019,userpc019,Windows 11,1,2026-09-22,Warning
+TR020,userpc020,Windows 10,0,2026-09-22,Protected
+TR021,userpc021,Windows 11,3,2026-09-22,Threat Found
+TR022,userpc022,Windows 10,0,2026-09-22,Protected
+TR023,userpc023,Windows Server 2022,1,2026-09-22,Warning
+TR024,userpc024,Windows 11,0,2026-09-22,Protected
+TR025,userpc025,Windows 10,4,2026-09-22,Threat Found
+TR026,userpc026,Windows 11,0,2026-09-22,Protected
+TR027,userpc027,Windows 10,2,2026-09-22,Warning
+TR028,userpc028,Windows Server 2022,0,2026-09-22,Protected
+TR029,userpc029,Windows 11,1,2026-09-22,Warning
+TR030,userpc030,Windows 10,0,2026-09-22,Protected
+TR031,userpc031,Windows 11,5,2026-09-22,Threat Found
+TR032,userpc032,Windows 10,0,2026-09-22,Protected
+TR033,userpc033,Windows Server 2022,1,2026-09-22,Warning
+TR034,userpc034,Windows 11,0,2026-09-22,Protected
+TR035,userpc035,Windows 10,3,2026-09-22,Threat Found
+TR036,userpc036,Windows 11,0,2026-09-22,Protected
+TR037,userpc037,Windows 10,1,2026-09-22,Warning
+TR038,userpc038,Windows Server 2022,0,2026-09-22,Protected
+TR039,userpc039,Windows 11,2,2026-09-22,Warning
+TR040,userpc040,Windows 10,0,2026-09-22,Protected
+TR041,userpc041,Windows 11,4,2026-09-22,Threat Found
+TR042,userpc042,Windows 10,0,2026-09-22,Protected
+TR043,userpc043,Windows Server 2022,1,2026-09-22,Warning
+TR044,userpc044,Windows 11,0,2026-09-22,Protected
+TR045,userpc045,Windows 10,2,2026-09-22,Warning
+TR046,userpc046,Windows 11,0,2026-09-22,Protected
+TR047,userpc047,Windows 10,5,2026-09-22,Threat Found
+TR048,userpc048,Windows Server 2022,0,2026-09-22,Protected
+TR049,userpc049,Windows 11,1,2026-09-22,Warning
+TR050,userpc050,Windows 10,0,2026-09-22,Protected
