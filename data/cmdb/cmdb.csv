@@ -41,11 +41,3 @@ CM039,Asset039,Network Device,NetworkTeam,Pune,High,Active
 CM040,Asset040,Workstation,ITSupport,Mumbai,Low,Maintenance
 CM041,Asset041,Server,InfraTeam,Bengaluru,Critical,Active
 CM042,Asset042,Database,DBATeam,Hyderabad,High,Active
-CM043,Asset043,Application,AppTeam,Chennai,Medium,Active
-CM044,Asset044,Network Device,NetworkTeam,Pune,High,Inactive
-CM045,Asset045,Workstation,ITSupport,Mumbai,Low,Active
-CM046,Asset046,Server,InfraTeam,Bengaluru,Critical,Maintenance
-CM047,Asset047,Database,DBATeam,Hyderabad,High,Active
-CM048,Asset048,Application,AppTeam,Chennai,Medium,Active
-CM049,Asset049,Network Device,NetworkTeam,Pune,High,Active
-CM050,Asset050,Workstation,ITSupport,Mumbai,Low,Inactive
